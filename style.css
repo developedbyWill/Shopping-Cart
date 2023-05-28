@@ -1,0 +1,64 @@
+.rounded-circle {
+  border-radius: 50%;
+  margin-left: 0.5rem;
+  margin-bottom: 1rem;
+  border: none;
+  padding: 5%;
+}
+.col-lg-2 div {
+  margin-top: 1rem;
+}
+.btn-1 {
+  border: 1px solid #000;
+}
+.btn-2 {
+  /* border: 1px solid #000; */
+  border-left-style: inherit;
+}
+.col-lg-2 div p {
+  font-size: 0.8rem;
+  text-align: left;
+  color: gray;
+}
+.col-lg-10 h6 {
+  margin-top: 2rem;
+}
+.col-lg-10 img {
+  border: none;
+  position: relative;
+}
+.top-button {
+  position: absolute;
+  z-index: 1;
+  margin-left: -7.5rem;
+  height: 2rem;
+  background-color: #000;
+  color: #fff;
+}
+.top-para {
+  margin-top: 1rem;
+}
+hr {
+  width: 2rem;
+  margin: 0 auto;
+  border: 2px solid goldenrod;
+  margin-bottom: 1rem;
+}
+.bold-span {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.lower-para {
+  color: gray;
+  margin-top: -1rem;
+  margin-bottom: 1rem;
+}
+.bottom-button {
+  width: 100%;
+  background-color: #000;
+  color: #fff;
+  padding: 5%;
+}
+.bottom-row {
+  margin-top: 1.5rem;
+}
